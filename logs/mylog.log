@@ -1,0 +1,60 @@
+[INFO ] 09-15-2022 01:32:18.341 [main] LoginPageStepDefinition - Browser  ------- Launch
+[INFO ] 09-15-2022 01:32:19.228 [main] LoginPageStepDefinition - Open ========= URL
+[INFO ] 09-15-2022 01:32:22.798 [main] LoginPageStepDefinition - Login Successful
+[INFO ] 09-15-2022 01:32:23.571 [main] LoginPageStepDefinition - Logout Successful
+[INFO ] 09-15-2022 01:32:24.598 [main] LoginPageStepDefinition - Browser  ------- Launch
+[INFO ] 09-15-2022 01:32:25.457 [main] LoginPageStepDefinition - Open ========= URL
+[INFO ] 09-15-2022 01:32:28.873 [main] LoginPageStepDefinition - Login Successful
+[INFO ] 09-15-2022 01:32:29.650 [main] LoginPageStepDefinition - Logout Successful
+[INFO ] 09-15-2022 01:32:31.505 [main] LoginPageStepDefinition - Browser  ------- Launch
+[INFO ] 09-15-2022 01:32:32.637 [main] LoginPageStepDefinition - Open ========= URL
+[INFO ] 09-15-2022 01:32:33.291 [main] LoginPageStepDefinition - Login Successful
+[INFO ] 09-15-2022 01:32:33.335 [main] LoginPageStepDefinition - Login Unsuccessful
+[INFO ] 09-15-2022 02:11:38.665 [main] LoginPageStepDefinition - Browser  ------- Launch
+[INFO ] 09-15-2022 02:11:39.407 [main] LoginPageStepDefinition - Open ========= URL
+[INFO ] 09-15-2022 02:11:42.227 [main] LoginPageStepDefinition - Login Successful
+[INFO ] 09-15-2022 02:11:42.952 [main] LoginPageStepDefinition - Logout Successful
+[INFO ] 09-15-2022 02:11:44.247 [main] LoginPageStepDefinition - Browser  ------- Launch
+[INFO ] 09-15-2022 02:11:44.902 [main] LoginPageStepDefinition - Open ========= URL
+[INFO ] 09-15-2022 02:11:47.377 [main] LoginPageStepDefinition - Login Successful
+[INFO ] 09-15-2022 02:11:48.224 [main] LoginPageStepDefinition - Logout Successful
+[INFO ] 09-15-2022 02:11:49.513 [main] LoginPageStepDefinition - Browser  ------- Launch
+[INFO ] 09-15-2022 02:11:50.227 [main] LoginPageStepDefinition - Open ========= URL
+[INFO ] 09-15-2022 02:11:51.031 [main] LoginPageStepDefinition - Login Successful
+[INFO ] 09-15-2022 02:11:51.051 [main] LoginPageStepDefinition - Login Unsuccessful
+[INFO ] 09-15-2022 02:17:27.793 [main] LoginPageStepDefinition - Browser  ------- Launch
+[INFO ] 09-15-2022 02:17:28.649 [main] LoginPageStepDefinition - Open ========= URL
+[INFO ] 09-15-2022 02:17:31.172 [main] LoginPageStepDefinition - Login Successful
+[INFO ] 09-15-2022 02:17:31.925 [main] LoginPageStepDefinition - Logout Successful
+[INFO ] 09-15-2022 02:17:33.189 [main] LoginPageStepDefinition - Browser  ------- Launch
+[INFO ] 09-15-2022 02:17:33.828 [main] LoginPageStepDefinition - Open ========= URL
+[INFO ] 09-15-2022 02:17:36.370 [main] LoginPageStepDefinition - Login Successful
+[INFO ] 09-15-2022 02:17:37.079 [main] LoginPageStepDefinition - Logout Successful
+[INFO ] 09-15-2022 02:17:38.350 [main] LoginPageStepDefinition - Browser  ------- Launch
+[INFO ] 09-15-2022 02:17:38.755 [main] LoginPageStepDefinition - Open ========= URL
+[INFO ] 09-15-2022 02:17:39.541 [main] LoginPageStepDefinition - Login Successful
+[INFO ] 09-15-2022 02:17:39.560 [main] LoginPageStepDefinition - Login Unsuccessful
+[INFO ] 09-15-2022 02:23:47.566 [main] LoginPageStepDefinition - Browser  ------- Launch
+[INFO ] 09-15-2022 02:23:48.435 [main] LoginPageStepDefinition - Open ========= URL
+[INFO ] 09-15-2022 02:23:50.777 [main] LoginPageStepDefinition - Login Successful
+[INFO ] 09-15-2022 02:23:51.770 [main] LoginPageStepDefinition - Logout Successful
+[INFO ] 09-15-2022 02:23:53.059 [main] LoginPageStepDefinition - Browser  ------- Launch
+[INFO ] 09-15-2022 02:23:53.731 [main] LoginPageStepDefinition - Open ========= URL
+[INFO ] 09-15-2022 02:23:56.012 [main] LoginPageStepDefinition - Login Successful
+[INFO ] 09-15-2022 02:23:56.729 [main] LoginPageStepDefinition - Logout Successful
+[INFO ] 09-15-2022 02:23:57.996 [main] LoginPageStepDefinition - Browser  ------- Launch
+[INFO ] 09-15-2022 02:23:58.394 [main] LoginPageStepDefinition - Open ========= URL
+[INFO ] 09-15-2022 02:23:59.171 [main] LoginPageStepDefinition - Login Successful
+[INFO ] 09-15-2022 02:23:59.187 [main] LoginPageStepDefinition - Login Unsuccessful
+[INFO ] 09-16-2022 01:45:58.733 [main] LoginPageStepDefinition - Browser  ------- Launch
+[INFO ] 09-16-2022 01:45:59.475 [main] LoginPageStepDefinition - Open ========= URL
+[INFO ] 09-16-2022 01:46:01.806 [main] LoginPageStepDefinition - Login Successful
+[INFO ] 09-16-2022 01:46:02.619 [main] LoginPageStepDefinition - Logout Successful
+[INFO ] 09-16-2022 01:46:03.916 [main] LoginPageStepDefinition - Browser  ------- Launch
+[INFO ] 09-16-2022 01:46:04.565 [main] LoginPageStepDefinition - Open ========= URL
+[INFO ] 09-16-2022 01:46:06.876 [main] LoginPageStepDefinition - Login Successful
+[INFO ] 09-16-2022 01:46:07.635 [main] LoginPageStepDefinition - Logout Successful
+[INFO ] 09-16-2022 01:46:08.898 [main] LoginPageStepDefinition - Browser  ------- Launch
+[INFO ] 09-16-2022 01:46:09.611 [main] LoginPageStepDefinition - Open ========= URL
+[INFO ] 09-16-2022 01:46:10.396 [main] LoginPageStepDefinition - Login Successful
+[INFO ] 09-16-2022 01:46:10.412 [main] LoginPageStepDefinition - Login Unsuccessful

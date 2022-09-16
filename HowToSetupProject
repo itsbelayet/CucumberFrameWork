@@ -1,0 +1,47 @@
+For Log4j Setup:
+1 step: copy dependency's to Pom.xml
+        <dependency>
+            <groupId>org.apache.logging.log4j</groupId>
+            <artifactId>log4j-core</artifactId>
+            <version>2.18.0</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.logging.log4j</groupId>
+            <artifactId>log4j-api</artifactId>
+            <version>2.18.0</version>
+        </dependency>
+
+2. step: public Logger logger; put into BaseClass
+3. step: logger = LogManager.getLogger("Class File Name");
+4. step: logger.info("Browser Launch"); put into test cases
+5. step: put log4j2.properties file into src/main/resources folder
+
+For Config.properties File Setup:
+        Properties prop;
+        prop = new Properties();
+        FileInputStream fiStream = new FileInputStream("Config.properties");
+        prop.load(fiStream);
+        String browserName = prop.getProperty("browser");
+
+For Screen Shot:
+        TakesScreenshot scrShot=((TakesScreenshot) driver);
+        File createImage=scrShot.getScreenshotAs(OutputType.FILE);   //Create Image
+        File saveToFile=new File(".\\Screenshot\\FailScreen.png");   //Save Image to File
+        FileUtils.copyFile(createImage,saveToFile);
+
+Run Project by .bat file:
+        Step 1. Copy dependency's to Pom.xml
+                <plugin>
+                    <groupId>org.apache.maven.plugins</groupId>
+                    <artifactId>maven-surefire-plugin</artifactId>
+                    <version>3.0.0-M7</version>
+                    <configuration>
+                        <testFailureIgnore>true</testFailureIgnore>
+                        <includes>
+                            <include>**/*RunLoginPage.java</include>
+                        </includes>
+                    </configuration>
+                </plugin>
+        Step 2. Create Batch file like (Run.bat)
+                    CD D:\PeopleNtech\CucumberFrameWork
+                    mvn test
