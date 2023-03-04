@@ -1,4 +1,10 @@
 For Log4j Setup:
+=== === === ====
+Last Activities: Search customer by name
+
+======
+Link (YouTube) : https://www.youtube.com/watch?v=qSNOpihc7ew&t=3508s
+
 1 step: copy dependency's to Pom.xml
         <dependency>
             <groupId>org.apache.logging.log4j</groupId>
@@ -15,21 +21,27 @@ For Log4j Setup:
 3. step: logger = LogManager.getLogger("Class File Name");
 4. step: logger.info("Browser Launch"); put into test cases
 5. step: put log4j2.properties file into src/main/resources folder
+=== === === === === === === === === === === === === === === === === === === === === === ===
 
 For Config.properties File Setup:
+=== ====== ========== ==== =====
         Properties prop;
         prop = new Properties();
         FileInputStream fiStream = new FileInputStream("Config.properties");
         prop.load(fiStream);
         String browserName = prop.getProperty("browser");
+=== === === === === === === === === === === === === === === === === === === === === === ===
 
 For Screen Shot:
+=== ====== ====
         TakesScreenshot scrShot=((TakesScreenshot) driver);
         File createImage=scrShot.getScreenshotAs(OutputType.FILE);   //Create Image
         File saveToFile=new File(".\\Screenshot\\FailScreen.png");   //Save Image to File
         FileUtils.copyFile(createImage,saveToFile);
+=== === === === === === === === === === === === === === === === === === === === === === ===
 
 Run Project by .bat file:
+=== ======= == ==== ====
         Step 1. Copy dependency's to Pom.xml
                 <plugin>
                     <groupId>org.apache.maven.plugins</groupId>
@@ -45,3 +57,21 @@ Run Project by .bat file:
         Step 2. Create Batch file like (Run.bat)
                     CD D:\PeopleNtech\CucumberFrameWork
                     mvn test
+
+=== === === === === === === === === === === === === === === === === === === === === === === === === === === ===
+For Extent Report : https://www.youtube.com/watch?v=tcg8Lt5bpIw
+                    https://www.youtube.com/watch?v=tcg8Lt5bpIw&t=1144s
+        Step 1. Copy dependency to Pom.xml
+                <dependency>
+                    <groupId>tech.grasshopper</groupId>
+                    <artifactId>extentreports-cucumber7-adapter</artifactId>
+                    <version>1.7.0</version>
+                </dependency>
+
+        Step 2. Create extent.properties file in  src/main/resource Folder
+                extent.reporter.spark.config=src/main/resources/extent-config.xml
+
+        Step 3. Write code in StepDefenation class at @AfterSteps
+        Step 4. Add plugin in Runner file
+        Step 5. Create extent-config.xml file under src/main/resource Folder
+

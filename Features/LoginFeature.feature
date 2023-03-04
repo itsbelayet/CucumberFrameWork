@@ -5,7 +5,7 @@ Feature: Login Functionality
     When User opens URL "https://admin-demo.nopcommerce.com/login"
 
   @Sanity
-  Scenario: Successful Login with Valid Credentials
+  Scenario: Successful Login with Valid Credentials (Single)
     And User enters Email as "admin@yourstore.com" and Password as "admin"
     And Click on Login
     Then Page Title should be "Dashboard / nopCommerce administration"
@@ -13,16 +13,15 @@ Feature: Login Functionality
     Then Page Title should be "Your store. Login"
 #    And close browser
 
-#  @Sanity
+#  @Sanity   @Regration
 #  Scenario: Login with In-Valid Credentials
 #    And User enters Email as "belayet@gmail.com" and Password as "admin"
 #    And Click on Login
 #    Then Page Title should be "Dashboard / nopCommerce administration"
 #    When User cannot Login
 
-
-  @Regration
-  Scenario Outline: Successful Login with Valid Credentials
+  @Sanity
+  Scenario Outline: Successful Login with Valid Credentials (Multiple)
     And User enters Email as "<email>" and Password as "<password>"
     And Click on Login
     Then Page Title should be "Dashboard / nopCommerce administration"
@@ -33,5 +32,5 @@ Feature: Login Functionality
     Examples:
       | email               | password |
       | admin@yourstore.com | admin    |
-      | belayet@gmail.com   | miru     |
+#      | belayet@gmail.com   | miru     |
 #      | admin1@yourstore.com | admin123 |

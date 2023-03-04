@@ -1,0 +1,409 @@
+[INFO ] 02-23-2023 01:49:10.012 [main] LoginPageStepDefinition - Browser  ------- Launch
+[INFO ] 02-23-2023 01:49:10.664 [main] LoginPageStepDefinition - Open ========= URL
+[INFO ] 02-23-2023 01:49:10.920 [main] LoginPageStepDefinition - Entered email address and password
+[INFO ] 02-23-2023 01:49:14.279 [main] LoginPageStepDefinition - Clicked on login button
+[INFO ] 02-23-2023 01:49:14.877 [main] LoginPageStepDefinition - Logout Successful
+[INFO ] 02-23-2023 01:49:16.306 [main] LoginPageStepDefinition - Browser  ------- Launch
+[INFO ] 02-23-2023 01:49:16.790 [main] LoginPageStepDefinition - Open ========= URL
+[INFO ] 02-23-2023 01:49:17.070 [main] LoginPageStepDefinition - Entered email address and password
+[INFO ] 02-23-2023 01:49:18.985 [main] LoginPageStepDefinition - Clicked on login button
+[INFO ] 02-23-2023 01:49:19.576 [main] LoginPageStepDefinition - Logout Successful
+[INFO ] 02-23-2023 01:49:20.955 [main] LoginPageStepDefinition - Browser  ------- Launch
+[INFO ] 02-23-2023 01:49:21.577 [main] LoginPageStepDefinition - Open ========= URL
+[INFO ] 02-23-2023 01:49:21.810 [main] LoginPageStepDefinition - Entered email address and password
+[INFO ] 02-23-2023 01:49:22.284 [main] LoginPageStepDefinition - Clicked on login button
+[INFO ] 02-23-2023 01:49:23.770 [main] LoginPageStepDefinition - Browser  ------- Launch
+[INFO ] 02-23-2023 01:49:24.346 [main] LoginPageStepDefinition - Open ========= URL
+[INFO ] 02-23-2023 01:49:24.559 [main] LoginPageStepDefinition - Entered email address and password
+[INFO ] 02-23-2023 01:49:24.812 [main] LoginPageStepDefinition - Clicked on login button
+[INFO ] 02-23-2023 01:52:34.532 [main] LoginPageStepDefinition - Browser  ------- Launch
+[INFO ] 02-23-2023 01:52:35.113 [main] LoginPageStepDefinition - Open ========= URL
+[INFO ] 02-23-2023 01:52:35.420 [main] LoginPageStepDefinition - Entered email address and password
+[INFO ] 02-23-2023 01:52:37.078 [main] LoginPageStepDefinition - Clicked on login button
+[INFO ] 02-23-2023 01:52:37.678 [main] LoginPageStepDefinition - Logout Successful
+[INFO ] 02-23-2023 01:52:39.029 [main] LoginPageStepDefinition - Browser  ------- Launch
+[INFO ] 02-23-2023 01:52:39.737 [main] LoginPageStepDefinition - Open ========= URL
+[INFO ] 02-23-2023 01:52:40.114 [main] LoginPageStepDefinition - Entered email address and password
+[INFO ] 02-23-2023 01:52:41.655 [main] LoginPageStepDefinition - Clicked on login button
+[INFO ] 02-23-2023 01:52:42.414 [main] LoginPageStepDefinition - Logout Successful
+[INFO ] 02-23-2023 01:52:43.800 [main] LoginPageStepDefinition - Browser  ------- Launch
+[INFO ] 02-23-2023 01:52:44.178 [main] LoginPageStepDefinition - Open ========= URL
+[INFO ] 02-23-2023 01:52:44.450 [main] LoginPageStepDefinition - Entered email address and password
+[INFO ] 02-23-2023 01:52:44.932 [main] LoginPageStepDefinition - Clicked on login button
+[INFO ] 02-23-2023 01:52:46.520 [main] LoginPageStepDefinition - Browser  ------- Launch
+[INFO ] 02-23-2023 01:52:47.220 [main] LoginPageStepDefinition - Open ========= URL
+[INFO ] 02-23-2023 01:52:47.476 [main] LoginPageStepDefinition - Entered email address and password
+[INFO ] 02-23-2023 01:52:47.945 [main] LoginPageStepDefinition - Clicked on login button
+[INFO ] 02-23-2023 01:57:02.886 [main] LoginPageStepDefinition - Browser  ------- Launch
+[INFO ] 02-23-2023 01:57:03.555 [main] LoginPageStepDefinition - Open ========= URL
+[INFO ] 02-23-2023 01:57:03.760 [main] LoginPageStepDefinition - Entered email address and password
+[INFO ] 02-23-2023 01:57:06.179 [main] LoginPageStepDefinition - Clicked on login button
+[INFO ] 02-23-2023 01:57:06.798 [main] LoginPageStepDefinition - Logout Successful
+[INFO ] 02-23-2023 01:57:08.145 [main] LoginPageStepDefinition - Browser  ------- Launch
+[INFO ] 02-23-2023 01:57:08.837 [main] LoginPageStepDefinition - Open ========= URL
+[INFO ] 02-23-2023 01:57:09.178 [main] LoginPageStepDefinition - Entered email address and password
+[INFO ] 02-23-2023 01:57:11.142 [main] LoginPageStepDefinition - Clicked on login button
+[INFO ] 02-23-2023 01:57:11.749 [main] LoginPageStepDefinition - Logout Successful
+[INFO ] 02-23-2023 01:57:13.061 [main] LoginPageStepDefinition - Browser  ------- Launch
+[INFO ] 02-23-2023 01:57:13.673 [main] LoginPageStepDefinition - Open ========= URL
+[INFO ] 02-23-2023 01:57:13.882 [main] LoginPageStepDefinition - Entered email address and password
+[INFO ] 02-23-2023 01:57:14.350 [main] LoginPageStepDefinition - Clicked on login button
+[INFO ] 02-23-2023 01:57:15.706 [main] LoginPageStepDefinition - Browser  ------- Launch
+[INFO ] 02-23-2023 01:57:16.226 [main] LoginPageStepDefinition - Open ========= URL
+[INFO ] 02-23-2023 01:57:16.530 [main] LoginPageStepDefinition - Entered email address and password
+[INFO ] 02-23-2023 01:57:17.012 [main] LoginPageStepDefinition - Clicked on login button
+[INFO ] 02-23-2023 01:58:17.395 [main] LoginPageStepDefinition - Browser  ------- Launch
+[INFO ] 02-23-2023 01:58:17.986 [main] LoginPageStepDefinition - Open ========= URL
+[INFO ] 02-23-2023 01:58:18.218 [main] LoginPageStepDefinition - Entered email address and password
+[INFO ] 02-23-2023 01:58:19.928 [main] LoginPageStepDefinition - Clicked on login button
+[INFO ] 02-23-2023 01:58:20.507 [main] LoginPageStepDefinition - Logout Successful
+[INFO ] 02-23-2023 01:58:21.894 [main] LoginPageStepDefinition - Browser  ------- Launch
+[INFO ] 02-23-2023 01:58:22.317 [main] LoginPageStepDefinition - Open ========= URL
+[INFO ] 02-23-2023 01:58:22.625 [main] LoginPageStepDefinition - Entered email address and password
+[INFO ] 02-23-2023 01:58:24.533 [main] LoginPageStepDefinition - Clicked on login button
+[INFO ] 02-23-2023 01:58:25.190 [main] LoginPageStepDefinition - Logout Successful
+[INFO ] 02-23-2023 01:58:26.428 [main] LoginPageStepDefinition - Browser  ------- Launch
+[INFO ] 02-23-2023 01:58:26.813 [main] LoginPageStepDefinition - Open ========= URL
+[INFO ] 02-23-2023 01:58:27.083 [main] LoginPageStepDefinition - Entered email address and password
+[INFO ] 02-23-2023 01:58:27.327 [main] LoginPageStepDefinition - Clicked on login button
+[INFO ] 02-23-2023 01:58:28.894 [main] LoginPageStepDefinition - Browser  ------- Launch
+[INFO ] 02-23-2023 01:58:29.609 [main] LoginPageStepDefinition - Open ========= URL
+[INFO ] 02-23-2023 01:58:29.893 [main] LoginPageStepDefinition - Entered email address and password
+[INFO ] 02-23-2023 01:58:30.156 [main] LoginPageStepDefinition - Clicked on login button
+[INFO ] 03-04-2023 00:33:07.710 [main] LoginPageStepDefinition - Browser  ------- Launch
+[INFO ] 03-04-2023 00:33:08.495 [main] LoginPageStepDefinition - Open ========= URL
+[INFO ] 03-04-2023 00:33:08.745 [main] LoginPageStepDefinition - Entered email address and password
+[INFO ] 03-04-2023 00:33:10.507 [main] LoginPageStepDefinition - Clicked on login button
+[INFO ] 03-04-2023 00:33:11.181 [main] LoginPageStepDefinition - Logout Successful
+[INFO ] 03-04-2023 00:33:12.802 [main] LoginPageStepDefinition - Browser  ------- Launch
+[INFO ] 03-04-2023 00:33:13.580 [main] LoginPageStepDefinition - Open ========= URL
+[INFO ] 03-04-2023 00:33:13.845 [main] LoginPageStepDefinition - Entered email address and password
+[INFO ] 03-04-2023 00:33:16.550 [main] LoginPageStepDefinition - Clicked on login button
+[INFO ] 03-04-2023 00:33:17.169 [main] LoginPageStepDefinition - Logout Successful
+[INFO ] 03-04-2023 00:33:18.589 [main] LoginPageStepDefinition - Browser  ------- Launch
+[INFO ] 03-04-2023 00:33:19.313 [main] LoginPageStepDefinition - Open ========= URL
+[INFO ] 03-04-2023 00:33:19.562 [main] LoginPageStepDefinition - Entered email address and password
+[INFO ] 03-04-2023 00:33:20.051 [main] LoginPageStepDefinition - Clicked on login button
+[INFO ] 03-04-2023 00:33:21.722 [main] LoginPageStepDefinition - Browser  ------- Launch
+[INFO ] 03-04-2023 00:33:22.261 [main] LoginPageStepDefinition - Open ========= URL
+[INFO ] 03-04-2023 00:33:22.528 [main] LoginPageStepDefinition - Entered email address and password
+[INFO ] 03-04-2023 00:33:23.003 [main] LoginPageStepDefinition - Clicked on login button
+[INFO ] 03-04-2023 00:35:03.492 [main] LoginPageStepDefinition - Browser  ------- Launch
+[INFO ] 03-04-2023 00:35:04.187 [main] LoginPageStepDefinition - Open ========= URL
+[INFO ] 03-04-2023 00:35:04.447 [main] LoginPageStepDefinition - Entered email address and password
+[INFO ] 03-04-2023 00:35:05.780 [main] LoginPageStepDefinition - Clicked on login button
+[INFO ] 03-04-2023 00:35:06.533 [main] LoginPageStepDefinition - Logout Successful
+[INFO ] 03-04-2023 00:35:08.002 [main] LoginPageStepDefinition - Browser  ------- Launch
+[INFO ] 03-04-2023 00:35:08.438 [main] LoginPageStepDefinition - Open ========= URL
+[INFO ] 03-04-2023 00:35:08.663 [main] LoginPageStepDefinition - Entered email address and password
+[INFO ] 03-04-2023 00:35:10.240 [main] LoginPageStepDefinition - Clicked on login button
+[INFO ] 03-04-2023 00:35:10.852 [main] LoginPageStepDefinition - Logout Successful
+[INFO ] 03-04-2023 00:35:12.032 [main] LoginPageStepDefinition - Browser  ------- Launch
+[INFO ] 03-04-2023 00:35:12.644 [main] LoginPageStepDefinition - Open ========= URL
+[INFO ] 03-04-2023 00:35:12.908 [main] LoginPageStepDefinition - Entered email address and password
+[INFO ] 03-04-2023 00:35:13.394 [main] LoginPageStepDefinition - Clicked on login button
+[INFO ] 03-04-2023 00:35:15.050 [main] LoginPageStepDefinition - Browser  ------- Launch
+[INFO ] 03-04-2023 00:35:15.710 [main] LoginPageStepDefinition - Open ========= URL
+[INFO ] 03-04-2023 00:35:15.934 [main] LoginPageStepDefinition - Entered email address and password
+[INFO ] 03-04-2023 00:35:16.223 [main] LoginPageStepDefinition - Clicked on login button
+[INFO ] 03-04-2023 00:35:51.398 [main] LoginPageStepDefinition - Browser  ------- Launch
+[INFO ] 03-04-2023 00:35:51.916 [main] LoginPageStepDefinition - Open ========= URL
+[INFO ] 03-04-2023 00:35:52.199 [main] LoginPageStepDefinition - Entered email address and password
+[INFO ] 03-04-2023 00:35:54.440 [main] LoginPageStepDefinition - Clicked on login button
+[INFO ] 03-04-2023 00:35:55.074 [main] LoginPageStepDefinition - Logout Successful
+[INFO ] 03-04-2023 00:36:40.349 [main] LoginPageStepDefinition - Browser  ------- Launch
+[INFO ] 03-04-2023 00:36:40.786 [main] LoginPageStepDefinition - Open ========= URL
+[INFO ] 03-04-2023 00:36:41.033 [main] LoginPageStepDefinition - Entered email address and password
+[INFO ] 03-04-2023 00:36:42.776 [main] LoginPageStepDefinition - Clicked on login button
+[INFO ] 03-04-2023 00:36:43.393 [main] LoginPageStepDefinition - Logout Successful
+[INFO ] 03-04-2023 00:38:22.297 [main] LoginPageStepDefinition - Browser  ------- Launch
+[INFO ] 03-04-2023 00:38:23.076 [main] LoginPageStepDefinition - Open ========= URL
+[INFO ] 03-04-2023 00:38:23.317 [main] LoginPageStepDefinition - Entered email address and password
+[INFO ] 03-04-2023 00:38:26.136 [main] LoginPageStepDefinition - Clicked on login button
+[INFO ] 03-04-2023 00:38:26.771 [main] LoginPageStepDefinition - Logout Successful
+[INFO ] 03-04-2023 00:38:28.342 [main] LoginPageStepDefinition - Browser  ------- Launch
+[INFO ] 03-04-2023 00:38:28.765 [main] LoginPageStepDefinition - Open ========= URL
+[INFO ] 03-04-2023 00:38:28.996 [main] LoginPageStepDefinition - Entered email address and password
+[INFO ] 03-04-2023 00:38:30.833 [main] LoginPageStepDefinition - Clicked on login button
+[INFO ] 03-04-2023 00:38:31.441 [main] LoginPageStepDefinition - Logout Successful
+[INFO ] 03-04-2023 00:40:18.947 [main] LoginPageStepDefinition - Browser  ------- Launch
+[INFO ] 03-04-2023 00:40:19.580 [main] LoginPageStepDefinition - Open ========= URL
+[INFO ] 03-04-2023 00:40:19.820 [main] LoginPageStepDefinition - Entered email address and password
+[INFO ] 03-04-2023 00:40:21.625 [main] LoginPageStepDefinition - Clicked on login button
+[INFO ] 03-04-2023 00:40:22.227 [main] LoginPageStepDefinition - Logout Successful
+[INFO ] 03-04-2023 01:02:26.079 [main] LoginPageStepDefinition - Browser  ------- Launch
+[INFO ] 03-04-2023 01:02:26.905 [main] LoginPageStepDefinition - Open ========= URL
+[INFO ] 03-04-2023 01:02:27.158 [main] LoginPageStepDefinition - Entered email address and password
+[INFO ] 03-04-2023 01:02:28.877 [main] LoginPageStepDefinition - Clicked on login button
+[INFO ] 03-04-2023 01:02:28.894 [main] LoginPageStepDefinition - user can view dashboard test passed.
+[INFO ] 03-04-2023 01:02:28.956 [main] LoginPageStepDefinition - customer menu clicked
+[INFO ] 03-04-2023 01:02:31.791 [main] LoginPageStepDefinition - customer menu item clicked
+[INFO ] 03-04-2023 01:02:37.651 [main] LoginPageStepDefinition - clicked on add new button.
+[INFO ] 03-04-2023 01:02:37.675 [main] LoginPageStepDefinition - User can view Add new customer page- passed
+[INFO ] 03-04-2023 01:02:38.640 [main] LoginPageStepDefinition - customer information entered
+[INFO ] 03-04-2023 01:02:39.477 [main] LoginPageStepDefinition - clicked on save button
+[INFO ] 03-04-2023 01:02:39.655 [main] LoginPageStepDefinition - User can view confirmation message - passed
+[INFO ] 03-04-2023 01:02:41.120 [main] LoginPageStepDefinition - Browser  ------- Launch
+[INFO ] 03-04-2023 01:02:41.892 [main] LoginPageStepDefinition - Open ========= URL
+[INFO ] 03-04-2023 01:02:42.266 [main] LoginPageStepDefinition - Entered email address and password
+[INFO ] 03-04-2023 01:02:44.096 [main] LoginPageStepDefinition - Clicked on login button
+[INFO ] 03-04-2023 01:02:44.765 [main] LoginPageStepDefinition - Logout Successful
+[INFO ] 03-04-2023 01:03:50.683 [main] LoginPageStepDefinition - Browser  ------- Launch
+[INFO ] 03-04-2023 01:03:51.605 [main] LoginPageStepDefinition - Open ========= URL
+[INFO ] 03-04-2023 01:03:51.842 [main] LoginPageStepDefinition - Entered email address and password
+[INFO ] 03-04-2023 01:03:53.582 [main] LoginPageStepDefinition - Clicked on login button
+[INFO ] 03-04-2023 01:03:53.595 [main] LoginPageStepDefinition - user can view dashboard test passed.
+[INFO ] 03-04-2023 01:03:53.666 [main] LoginPageStepDefinition - customer menu clicked
+[INFO ] 03-04-2023 01:03:56.521 [main] LoginPageStepDefinition - customer menu item clicked
+[INFO ] 03-04-2023 01:04:02.287 [main] LoginPageStepDefinition - clicked on add new button.
+[INFO ] 03-04-2023 01:04:02.317 [main] LoginPageStepDefinition - User can view Add new customer page- passed
+[INFO ] 03-04-2023 01:04:03.347 [main] LoginPageStepDefinition - customer information entered
+[INFO ] 03-04-2023 01:04:04.209 [main] LoginPageStepDefinition - clicked on save button
+[INFO ] 03-04-2023 01:04:04.390 [main] LoginPageStepDefinition - User can view confirmation message - passed
+[INFO ] 03-04-2023 01:04:06.224 [main] LoginPageStepDefinition - Browser  ------- Launch
+[INFO ] 03-04-2023 01:04:07.026 [main] LoginPageStepDefinition - Open ========= URL
+[INFO ] 03-04-2023 01:04:07.397 [main] LoginPageStepDefinition - Entered email address and password
+[INFO ] 03-04-2023 01:04:09.145 [main] LoginPageStepDefinition - Clicked on login button
+[INFO ] 03-04-2023 01:04:09.774 [main] LoginPageStepDefinition - Logout Successful
+[INFO ] 03-04-2023 01:05:33.749 [main] LoginPageStepDefinition - Browser  ------- Launch
+[INFO ] 03-04-2023 01:05:34.668 [main] LoginPageStepDefinition - Open ========= URL
+[INFO ] 03-04-2023 01:05:34.912 [main] LoginPageStepDefinition - Entered email address and password
+[INFO ] 03-04-2023 01:05:36.715 [main] LoginPageStepDefinition - Clicked on login button
+[INFO ] 03-04-2023 01:05:36.730 [main] LoginPageStepDefinition - user can view dashboard test passed.
+[INFO ] 03-04-2023 01:05:36.800 [main] LoginPageStepDefinition - customer menu clicked
+[INFO ] 03-04-2023 01:05:39.695 [main] LoginPageStepDefinition - customer menu item clicked
+[INFO ] 03-04-2023 01:05:45.463 [main] LoginPageStepDefinition - clicked on add new button.
+[INFO ] 03-04-2023 01:05:45.495 [main] LoginPageStepDefinition - User can view Add new customer page- passed
+[INFO ] 03-04-2023 01:05:46.353 [main] LoginPageStepDefinition - customer information entered
+[INFO ] 03-04-2023 01:05:47.230 [main] LoginPageStepDefinition - clicked on save button
+[INFO ] 03-04-2023 01:05:47.442 [main] LoginPageStepDefinition - User can view confirmation message - passed
+[INFO ] 03-04-2023 01:05:48.758 [main] LoginPageStepDefinition - Browser  ------- Launch
+[INFO ] 03-04-2023 01:05:49.497 [main] LoginPageStepDefinition - Open ========= URL
+[INFO ] 03-04-2023 01:05:49.800 [main] LoginPageStepDefinition - Entered email address and password
+[INFO ] 03-04-2023 01:05:51.707 [main] LoginPageStepDefinition - Clicked on login button
+[INFO ] 03-04-2023 01:05:52.351 [main] LoginPageStepDefinition - Logout Successful
+[INFO ] 03-04-2023 01:06:52.772 [main] LoginPageStepDefinition - Browser  ------- Launch
+[INFO ] 03-04-2023 01:06:53.460 [main] LoginPageStepDefinition - Open ========= URL
+[INFO ] 03-04-2023 01:06:53.707 [main] LoginPageStepDefinition - Entered email address and password
+[INFO ] 03-04-2023 01:06:55.270 [main] LoginPageStepDefinition - Clicked on login button
+[INFO ] 03-04-2023 01:06:55.291 [main] LoginPageStepDefinition - user can view dashboard test passed.
+[INFO ] 03-04-2023 01:06:55.356 [main] LoginPageStepDefinition - customer menu clicked
+[INFO ] 03-04-2023 01:06:58.204 [main] LoginPageStepDefinition - customer menu item clicked
+[INFO ] 03-04-2023 01:07:04.027 [main] LoginPageStepDefinition - clicked on add new button.
+[INFO ] 03-04-2023 01:07:04.041 [main] LoginPageStepDefinition - User can view Add new customer page- passed
+[INFO ] 03-04-2023 01:07:04.905 [main] LoginPageStepDefinition - customer information entered
+[INFO ] 03-04-2023 01:07:05.712 [main] LoginPageStepDefinition - clicked on save button
+[INFO ] 03-04-2023 01:07:05.921 [main] LoginPageStepDefinition - User can view confirmation message - passed
+[INFO ] 03-04-2023 01:07:07.263 [main] LoginPageStepDefinition - Browser  ------- Launch
+[INFO ] 03-04-2023 01:07:08.235 [main] LoginPageStepDefinition - Open ========= URL
+[INFO ] 03-04-2023 01:07:08.607 [main] LoginPageStepDefinition - Entered email address and password
+[INFO ] 03-04-2023 01:07:10.055 [main] LoginPageStepDefinition - Clicked on login button
+[INFO ] 03-04-2023 01:07:10.067 [main] LoginPageStepDefinition - user can view dashboard test passed.
+[INFO ] 03-04-2023 01:07:10.129 [main] LoginPageStepDefinition - customer menu clicked
+[INFO ] 03-04-2023 01:07:12.979 [main] LoginPageStepDefinition - customer menu item clicked
+[INFO ] 03-04-2023 01:07:17.991 [main] LoginPageStepDefinition - Email address entered   *** Before
+[INFO ] 03-04-2023 01:07:18.110 [main] LoginPageStepDefinition - Email address entered
+[INFO ] 03-04-2023 01:07:18.177 [main] LoginPageStepDefinition - Clicked on search button.
+[INFO ] 03-04-2023 01:07:20.243 [main] LoginPageStepDefinition - User should found Email in the Search table - passed
+[INFO ] 03-04-2023 01:07:21.470 [main] LoginPageStepDefinition - Browser  ------- Launch
+[INFO ] 03-04-2023 01:07:22.401 [main] LoginPageStepDefinition - Open ========= URL
+[INFO ] 03-04-2023 01:07:22.673 [main] LoginPageStepDefinition - Entered email address and password
+[INFO ] 03-04-2023 01:07:24.967 [main] LoginPageStepDefinition - Clicked on login button
+[INFO ] 03-04-2023 01:07:24.982 [main] LoginPageStepDefinition - user can view dashboard test passed.
+[INFO ] 03-04-2023 01:07:25.045 [main] LoginPageStepDefinition - customer menu clicked
+[INFO ] 03-04-2023 01:07:27.958 [main] LoginPageStepDefinition - customer menu item clicked
+[INFO ] 03-04-2023 01:07:32.971 [main] LoginPageStepDefinition - Enter First Name before action
+[INFO ] 03-04-2023 01:07:33.062 [main] LoginPageStepDefinition - Enter First Name after action
+[INFO ] 03-04-2023 01:07:33.143 [main] LoginPageStepDefinition - Enter Last Name
+[INFO ] 03-04-2023 01:07:33.219 [main] LoginPageStepDefinition - Clicked on search button.
+[INFO ] 03-04-2023 01:07:36.511 [main] LoginPageStepDefinition - Browser  ------- Launch
+[INFO ] 03-04-2023 01:07:37.273 [main] LoginPageStepDefinition - Open ========= URL
+[INFO ] 03-04-2023 01:07:37.560 [main] LoginPageStepDefinition - Entered email address and password
+[INFO ] 03-04-2023 01:07:39.454 [main] LoginPageStepDefinition - Clicked on login button
+[INFO ] 03-04-2023 01:07:40.086 [main] LoginPageStepDefinition - Logout Successful
+[INFO ] 03-04-2023 01:08:42.149 [main] LoginPageStepDefinition - Browser  ------- Launch
+[INFO ] 03-04-2023 01:08:43.026 [main] LoginPageStepDefinition - Open ========= URL
+[INFO ] 03-04-2023 01:08:43.258 [main] LoginPageStepDefinition - Entered email address and password
+[INFO ] 03-04-2023 01:08:45.105 [main] LoginPageStepDefinition - Clicked on login button
+[INFO ] 03-04-2023 01:08:45.122 [main] LoginPageStepDefinition - user can view dashboard test passed.
+[INFO ] 03-04-2023 01:08:45.198 [main] LoginPageStepDefinition - customer menu clicked
+[INFO ] 03-04-2023 01:08:48.077 [main] LoginPageStepDefinition - customer menu item clicked
+[INFO ] 03-04-2023 01:08:53.865 [main] LoginPageStepDefinition - clicked on add new button.
+[INFO ] 03-04-2023 01:08:53.897 [main] LoginPageStepDefinition - User can view Add new customer page- passed
+[INFO ] 03-04-2023 01:08:54.729 [main] LoginPageStepDefinition - customer information entered
+[INFO ] 03-04-2023 01:08:55.522 [main] LoginPageStepDefinition - clicked on save button
+[INFO ] 03-04-2023 01:08:55.742 [main] LoginPageStepDefinition - User can view confirmation message - passed
+[INFO ] 03-04-2023 01:08:57.123 [main] LoginPageStepDefinition - Browser  ------- Launch
+[INFO ] 03-04-2023 01:08:58.096 [main] LoginPageStepDefinition - Open ========= URL
+[INFO ] 03-04-2023 01:08:58.310 [main] LoginPageStepDefinition - Entered email address and password
+[INFO ] 03-04-2023 01:09:00.175 [main] LoginPageStepDefinition - Clicked on login button
+[INFO ] 03-04-2023 01:09:00.190 [main] LoginPageStepDefinition - user can view dashboard test passed.
+[INFO ] 03-04-2023 01:09:00.265 [main] LoginPageStepDefinition - customer menu clicked
+[INFO ] 03-04-2023 01:09:03.145 [main] LoginPageStepDefinition - customer menu item clicked
+[INFO ] 03-04-2023 01:09:08.163 [main] LoginPageStepDefinition - Email address entered   *** Before
+[INFO ] 03-04-2023 01:09:08.273 [main] LoginPageStepDefinition - Email address entered
+[INFO ] 03-04-2023 01:09:08.336 [main] LoginPageStepDefinition - Clicked on search button.
+[INFO ] 03-04-2023 01:09:10.394 [main] LoginPageStepDefinition - User should found Email in the Search table - passed
+[INFO ] 03-04-2023 01:09:11.675 [main] LoginPageStepDefinition - Browser  ------- Launch
+[INFO ] 03-04-2023 01:09:12.450 [main] LoginPageStepDefinition - Open ========= URL
+[INFO ] 03-04-2023 01:09:12.806 [main] LoginPageStepDefinition - Entered email address and password
+[INFO ] 03-04-2023 01:09:14.275 [main] LoginPageStepDefinition - Clicked on login button
+[INFO ] 03-04-2023 01:09:14.276 [main] LoginPageStepDefinition - user can view dashboard test passed.
+[INFO ] 03-04-2023 01:09:14.354 [main] LoginPageStepDefinition - customer menu clicked
+[INFO ] 03-04-2023 01:09:17.233 [main] LoginPageStepDefinition - customer menu item clicked
+[INFO ] 03-04-2023 01:09:22.239 [main] LoginPageStepDefinition - Enter First Name before action
+[INFO ] 03-04-2023 01:09:22.341 [main] LoginPageStepDefinition - Enter First Name after action
+[INFO ] 03-04-2023 01:09:22.428 [main] LoginPageStepDefinition - Enter Last Name
+[INFO ] 03-04-2023 01:09:22.495 [main] LoginPageStepDefinition - Clicked on search button.
+[INFO ] 03-04-2023 01:09:25.997 [main] LoginPageStepDefinition - Browser  ------- Launch
+[INFO ] 03-04-2023 01:09:26.710 [main] LoginPageStepDefinition - Open ========= URL
+[INFO ] 03-04-2023 01:09:26.959 [main] LoginPageStepDefinition - Entered email address and password
+[INFO ] 03-04-2023 01:09:28.363 [main] LoginPageStepDefinition - Clicked on login button
+[INFO ] 03-04-2023 01:09:29.020 [main] LoginPageStepDefinition - Logout Successful
+[INFO ] 03-04-2023 01:09:30.193 [main] LoginPageStepDefinition - Browser  ------- Launch
+[INFO ] 03-04-2023 01:09:30.725 [main] LoginPageStepDefinition - Open ========= URL
+[INFO ] 03-04-2023 01:09:31.018 [main] LoginPageStepDefinition - Entered email address and password
+[INFO ] 03-04-2023 01:09:32.867 [main] LoginPageStepDefinition - Clicked on login button
+[INFO ] 03-04-2023 01:09:33.472 [main] LoginPageStepDefinition - Logout Successful
+[INFO ] 03-04-2023 01:12:49.527 [main] LoginPageStepDefinition - Browser  ------- Launch
+[INFO ] 03-04-2023 01:12:50.501 [main] LoginPageStepDefinition - Open ========= URL
+[INFO ] 03-04-2023 01:12:50.849 [main] LoginPageStepDefinition - Entered email address and password
+[INFO ] 03-04-2023 01:12:52.809 [main] LoginPageStepDefinition - Clicked on login button
+[INFO ] 03-04-2023 01:12:52.820 [main] LoginPageStepDefinition - user can view dashboard test passed.
+[INFO ] 03-04-2023 01:12:52.927 [main] LoginPageStepDefinition - customer menu clicked
+[INFO ] 03-04-2023 01:12:55.797 [main] LoginPageStepDefinition - customer menu item clicked
+[INFO ] 03-04-2023 01:13:01.540 [main] LoginPageStepDefinition - clicked on add new button.
+[INFO ] 03-04-2023 01:13:01.556 [main] LoginPageStepDefinition - User can view Add new customer page- passed
+[INFO ] 03-04-2023 01:13:02.425 [main] LoginPageStepDefinition - customer information entered
+[INFO ] 03-04-2023 01:13:03.241 [main] LoginPageStepDefinition - clicked on save button
+[INFO ] 03-04-2023 01:13:03.422 [main] LoginPageStepDefinition - User can view confirmation message - passed
+[INFO ] 03-04-2023 01:13:04.732 [main] LoginPageStepDefinition - Browser  ------- Launch
+[INFO ] 03-04-2023 01:13:05.453 [main] LoginPageStepDefinition - Open ========= URL
+[INFO ] 03-04-2023 01:13:05.739 [main] LoginPageStepDefinition - Entered email address and password
+[INFO ] 03-04-2023 01:13:08.017 [main] LoginPageStepDefinition - Clicked on login button
+[INFO ] 03-04-2023 01:13:08.034 [main] LoginPageStepDefinition - user can view dashboard test passed.
+[INFO ] 03-04-2023 01:13:08.097 [main] LoginPageStepDefinition - customer menu clicked
+[INFO ] 03-04-2023 01:13:10.953 [main] LoginPageStepDefinition - customer menu item clicked
+[INFO ] 03-04-2023 01:13:15.957 [main] LoginPageStepDefinition - Email address entered   *** Before
+[INFO ] 03-04-2023 01:13:16.074 [main] LoginPageStepDefinition - Email address entered
+[INFO ] 03-04-2023 01:13:16.134 [main] LoginPageStepDefinition - Clicked on search button.
+[INFO ] 03-04-2023 01:13:18.188 [main] LoginPageStepDefinition - User should found Email in the Search table - passed
+[INFO ] 03-04-2023 01:13:19.273 [main] LoginPageStepDefinition - Browser  ------- Launch
+[INFO ] 03-04-2023 01:13:20.042 [main] LoginPageStepDefinition - Open ========= URL
+[INFO ] 03-04-2023 01:13:20.340 [main] LoginPageStepDefinition - Entered email address and password
+[INFO ] 03-04-2023 01:13:22.718 [main] LoginPageStepDefinition - Clicked on login button
+[INFO ] 03-04-2023 01:13:22.718 [main] LoginPageStepDefinition - user can view dashboard test passed.
+[INFO ] 03-04-2023 01:13:22.792 [main] LoginPageStepDefinition - customer menu clicked
+[INFO ] 03-04-2023 01:13:25.668 [main] LoginPageStepDefinition - customer menu item clicked
+[INFO ] 03-04-2023 01:13:30.668 [main] LoginPageStepDefinition - Enter First Name before action
+[INFO ] 03-04-2023 01:13:30.781 [main] LoginPageStepDefinition - Enter First Name after action
+[INFO ] 03-04-2023 01:13:30.869 [main] LoginPageStepDefinition - Enter Last Name
+[INFO ] 03-04-2023 01:13:30.933 [main] LoginPageStepDefinition - Clicked on search button.
+[INFO ] 03-04-2023 01:13:34.217 [main] LoginPageStepDefinition - Browser  ------- Launch
+[INFO ] 03-04-2023 01:13:34.944 [main] LoginPageStepDefinition - Open ========= URL
+[INFO ] 03-04-2023 01:13:35.261 [main] LoginPageStepDefinition - Entered email address and password
+[INFO ] 03-04-2023 01:13:37.105 [main] LoginPageStepDefinition - Clicked on login button
+[INFO ] 03-04-2023 01:13:37.745 [main] LoginPageStepDefinition - Logout Successful
+[INFO ] 03-04-2023 01:13:38.840 [main] LoginPageStepDefinition - Browser  ------- Launch
+[INFO ] 03-04-2023 01:13:39.560 [main] LoginPageStepDefinition - Open ========= URL
+[INFO ] 03-04-2023 01:13:39.844 [main] LoginPageStepDefinition - Entered email address and password
+[INFO ] 03-04-2023 01:13:41.716 [main] LoginPageStepDefinition - Clicked on login button
+[INFO ] 03-04-2023 01:13:42.365 [main] LoginPageStepDefinition - Logout Successful
+[INFO ] 03-04-2023 01:14:48.476 [main] LoginPageStepDefinition - Browser  ------- Launch
+[INFO ] 03-04-2023 01:14:49.110 [main] LoginPageStepDefinition - Open ========= URL
+[INFO ] 03-04-2023 01:14:49.340 [main] LoginPageStepDefinition - Entered email address and password
+[INFO ] 03-04-2023 01:14:50.981 [main] LoginPageStepDefinition - Clicked on login button
+[INFO ] 03-04-2023 01:14:51.614 [main] LoginPageStepDefinition - Logout Successful
+[INFO ] 03-04-2023 01:14:52.875 [main] LoginPageStepDefinition - Browser  ------- Launch
+[INFO ] 03-04-2023 01:14:53.508 [main] LoginPageStepDefinition - Open ========= URL
+[INFO ] 03-04-2023 01:14:53.742 [main] LoginPageStepDefinition - Entered email address and password
+[INFO ] 03-04-2023 01:14:55.721 [main] LoginPageStepDefinition - Clicked on login button
+[INFO ] 03-04-2023 01:14:56.450 [main] LoginPageStepDefinition - Logout Successful
+[INFO ] 03-04-2023 01:17:26.790 [main] LoginPageStepDefinition - Browser  ------- Launch
+[INFO ] 03-04-2023 01:17:27.724 [main] LoginPageStepDefinition - Open ========= URL
+[INFO ] 03-04-2023 01:17:27.951 [main] LoginPageStepDefinition - Entered email address and password
+[INFO ] 03-04-2023 01:17:30.309 [main] LoginPageStepDefinition - Clicked on login button
+[INFO ] 03-04-2023 01:17:30.325 [main] LoginPageStepDefinition - user can view dashboard test passed.
+[INFO ] 03-04-2023 01:17:30.400 [main] LoginPageStepDefinition - customer menu clicked
+[INFO ] 03-04-2023 01:17:33.287 [main] LoginPageStepDefinition - customer menu item clicked
+[INFO ] 03-04-2023 01:17:39.081 [main] LoginPageStepDefinition - clicked on add new button.
+[INFO ] 03-04-2023 01:17:39.091 [main] LoginPageStepDefinition - User can view Add new customer page- passed
+[INFO ] 03-04-2023 01:17:39.920 [main] LoginPageStepDefinition - customer information entered
+[INFO ] 03-04-2023 01:17:40.736 [main] LoginPageStepDefinition - clicked on save button
+[INFO ] 03-04-2023 01:17:40.949 [main] LoginPageStepDefinition - User can view confirmation message - passed
+[INFO ] 03-04-2023 01:17:42.311 [main] LoginPageStepDefinition - Browser  ------- Launch
+[INFO ] 03-04-2023 01:17:42.941 [main] LoginPageStepDefinition - Open ========= URL
+[INFO ] 03-04-2023 01:17:43.179 [main] LoginPageStepDefinition - Entered email address and password
+[INFO ] 03-04-2023 01:17:45.061 [main] LoginPageStepDefinition - Clicked on login button
+[INFO ] 03-04-2023 01:17:45.078 [main] LoginPageStepDefinition - user can view dashboard test passed.
+[INFO ] 03-04-2023 01:17:45.158 [main] LoginPageStepDefinition - customer menu clicked
+[INFO ] 03-04-2023 01:17:48.038 [main] LoginPageStepDefinition - customer menu item clicked
+[INFO ] 03-04-2023 01:17:53.042 [main] LoginPageStepDefinition - Email address entered   *** Before
+[INFO ] 03-04-2023 01:17:53.160 [main] LoginPageStepDefinition - Email address entered
+[INFO ] 03-04-2023 01:17:53.220 [main] LoginPageStepDefinition - Clicked on search button.
+[INFO ] 03-04-2023 01:17:55.269 [main] LoginPageStepDefinition - User should found Email in the Search table - passed
+[INFO ] 03-04-2023 01:17:56.414 [main] LoginPageStepDefinition - Browser  ------- Launch
+[INFO ] 03-04-2023 01:17:57.104 [main] LoginPageStepDefinition - Open ========= URL
+[INFO ] 03-04-2023 01:17:57.341 [main] LoginPageStepDefinition - Entered email address and password
+[INFO ] 03-04-2023 01:17:59.215 [main] LoginPageStepDefinition - Clicked on login button
+[INFO ] 03-04-2023 01:17:59.231 [main] LoginPageStepDefinition - user can view dashboard test passed.
+[INFO ] 03-04-2023 01:17:59.309 [main] LoginPageStepDefinition - customer menu clicked
+[INFO ] 03-04-2023 01:18:02.159 [main] LoginPageStepDefinition - customer menu item clicked
+[INFO ] 03-04-2023 01:18:07.170 [main] LoginPageStepDefinition - Enter First Name before action
+[INFO ] 03-04-2023 01:18:07.274 [main] LoginPageStepDefinition - Enter First Name after action
+[INFO ] 03-04-2023 01:18:07.362 [main] LoginPageStepDefinition - Enter Last Name
+[INFO ] 03-04-2023 01:18:07.433 [main] LoginPageStepDefinition - Clicked on search button.
+[INFO ] 03-04-2023 01:18:10.717 [main] LoginPageStepDefinition - Browser  ------- Launch
+[INFO ] 03-04-2023 01:18:11.351 [main] LoginPageStepDefinition - Open ========= URL
+[INFO ] 03-04-2023 01:18:11.576 [main] LoginPageStepDefinition - Entered email address and password
+[INFO ] 03-04-2023 01:18:13.467 [main] LoginPageStepDefinition - Clicked on login button
+[INFO ] 03-04-2023 01:18:14.120 [main] LoginPageStepDefinition - Logout Successful
+[INFO ] 03-04-2023 01:18:15.360 [main] LoginPageStepDefinition - Browser  ------- Launch
+[INFO ] 03-04-2023 01:18:15.968 [main] LoginPageStepDefinition - Open ========= URL
+[INFO ] 03-04-2023 01:18:16.191 [main] LoginPageStepDefinition - Entered email address and password
+[INFO ] 03-04-2023 01:18:17.830 [main] LoginPageStepDefinition - Clicked on login button
+[INFO ] 03-04-2023 01:18:18.486 [main] LoginPageStepDefinition - Logout Successful
+[INFO ] 03-04-2023 01:19:30.471 [main] LoginPageStepDefinition - Browser  ------- Launch
+[INFO ] 03-04-2023 01:19:31.305 [main] LoginPageStepDefinition - Open ========= URL
+[INFO ] 03-04-2023 01:19:31.555 [main] LoginPageStepDefinition - Entered email address and password
+[INFO ] 03-04-2023 01:19:33.846 [main] LoginPageStepDefinition - Clicked on login button
+[INFO ] 03-04-2023 01:19:33.870 [main] LoginPageStepDefinition - user can view dashboard test passed.
+[INFO ] 03-04-2023 01:19:33.952 [main] LoginPageStepDefinition - customer menu clicked
+[INFO ] 03-04-2023 01:19:36.862 [main] LoginPageStepDefinition - customer menu item clicked
+[INFO ] 03-04-2023 01:19:42.647 [main] LoginPageStepDefinition - clicked on add new button.
+[INFO ] 03-04-2023 01:19:42.686 [main] LoginPageStepDefinition - User can view Add new customer page- passed
+[INFO ] 03-04-2023 01:19:43.507 [main] LoginPageStepDefinition - customer information entered
+[INFO ] 03-04-2023 01:19:44.346 [main] LoginPageStepDefinition - clicked on save button
+[INFO ] 03-04-2023 01:19:44.536 [main] LoginPageStepDefinition - User can view confirmation message - passed
+[INFO ] 03-04-2023 01:19:46.554 [main] LoginPageStepDefinition - Browser  ------- Launch
+[INFO ] 03-04-2023 01:19:47.405 [main] LoginPageStepDefinition - Open ========= URL
+[INFO ] 03-04-2023 01:19:47.635 [main] LoginPageStepDefinition - Entered email address and password
+[INFO ] 03-04-2023 01:19:49.036 [main] LoginPageStepDefinition - Clicked on login button
+[INFO ] 03-04-2023 01:19:49.060 [main] LoginPageStepDefinition - user can view dashboard test passed.
+[INFO ] 03-04-2023 01:19:49.138 [main] LoginPageStepDefinition - customer menu clicked
+[INFO ] 03-04-2023 01:19:51.995 [main] LoginPageStepDefinition - customer menu item clicked
+[INFO ] 03-04-2023 01:19:57.005 [main] LoginPageStepDefinition - Email address entered   *** Before
+[INFO ] 03-04-2023 01:19:57.126 [main] LoginPageStepDefinition - Email address entered
+[INFO ] 03-04-2023 01:19:57.196 [main] LoginPageStepDefinition - Clicked on search button.
+[INFO ] 03-04-2023 01:19:59.253 [main] LoginPageStepDefinition - User should found Email in the Search table - passed
+[INFO ] 03-04-2023 01:20:01.175 [main] LoginPageStepDefinition - Browser  ------- Launch
+[INFO ] 03-04-2023 01:20:02.036 [main] LoginPageStepDefinition - Open ========= URL
+[INFO ] 03-04-2023 01:20:02.263 [main] LoginPageStepDefinition - Entered email address and password
+[INFO ] 03-04-2023 01:20:04.187 [main] LoginPageStepDefinition - Clicked on login button
+[INFO ] 03-04-2023 01:20:04.218 [main] LoginPageStepDefinition - user can view dashboard test passed.
+[INFO ] 03-04-2023 01:20:04.285 [main] LoginPageStepDefinition - customer menu clicked
+[INFO ] 03-04-2023 01:20:07.215 [main] LoginPageStepDefinition - customer menu item clicked
+[INFO ] 03-04-2023 01:20:12.227 [main] LoginPageStepDefinition - Enter First Name before action
+[INFO ] 03-04-2023 01:20:12.321 [main] LoginPageStepDefinition - Enter First Name after action
+[INFO ] 03-04-2023 01:20:12.422 [main] LoginPageStepDefinition - Enter Last Name
+[INFO ] 03-04-2023 01:20:12.487 [main] LoginPageStepDefinition - Clicked on search button.
+[INFO ] 03-04-2023 01:20:16.577 [main] LoginPageStepDefinition - Browser  ------- Launch
+[INFO ] 03-04-2023 01:20:17.158 [main] LoginPageStepDefinition - Open ========= URL
+[INFO ] 03-04-2023 01:20:17.399 [main] LoginPageStepDefinition - Entered email address and password
+[INFO ] 03-04-2023 01:20:19.665 [main] LoginPageStepDefinition - Clicked on login button
+[INFO ] 03-04-2023 01:20:20.302 [main] LoginPageStepDefinition - Logout Successful
+[INFO ] 03-04-2023 01:20:22.187 [main] LoginPageStepDefinition - Browser  ------- Launch
+[INFO ] 03-04-2023 01:20:22.845 [main] LoginPageStepDefinition - Open ========= URL
+[INFO ] 03-04-2023 01:20:23.076 [main] LoginPageStepDefinition - Entered email address and password
+[INFO ] 03-04-2023 01:20:24.586 [main] LoginPageStepDefinition - Clicked on login button
+[INFO ] 03-04-2023 01:20:25.246 [main] LoginPageStepDefinition - Logout Successful

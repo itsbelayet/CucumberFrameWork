@@ -126,6 +126,14 @@
             <artifactId>cucumber-testng</artifactId>
             <version>7.3.4</version>
         </dependency>
+
+        <!-- https://mvnrepository.com/artifact/tech.grasshopper/extentreports-cucumber7-adapter -->
+        <dependency>
+            <groupId>tech.grasshopper</groupId>
+            <artifactId>extentreports-cucumber7-adapter</artifactId>
+            <version>1.7.0</version>
+        </dependency>
+
     </dependencies>
 
     <build>
